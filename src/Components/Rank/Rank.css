@@ -1,0 +1,10 @@
+.text {
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    margin-top: 120px;
+}
+
+.rank {
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+}

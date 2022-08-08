@@ -1,0 +1,25 @@
+.container {
+    margin: 10px;
+    margin-top: 0;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    margin-right: 25px;
+    
+}
+
+.image-container {
+    margin-left: 15px;
+    height: 200px;
+    width: 200px;
+    background: linear-gradient(89deg, rgba(28, 202, 255, 0.521) 0%, rgba(79, 255, 56, 0.507) 100%);
+    box-shadow: 4px 4px 8px 0px rgba( 0, 0, 0, 0.2);
+}
+
+img {
+    height: 100px;
+    padding-top: 50px;
+    padding-left: 20px;
+    
+}
+

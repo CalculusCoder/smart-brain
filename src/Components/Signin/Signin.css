@@ -1,0 +1,14 @@
+article {
+    z-index: 999;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+input.pa2 {
+    width: 300px;
+}
+
+input.ph3 {
+    width: 100px;
+}
+

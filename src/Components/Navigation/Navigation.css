@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    justify-content: end;
+}
+
+a {
+    font-size: 25px;
+    padding: 20px;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: grey;
+}
